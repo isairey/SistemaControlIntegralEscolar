@@ -92,12 +92,12 @@ php artisan serve
 
 El sistema permite centralizar la información académica y administrativa, facilitando tareas como:
 
-Registro y consulta de alumnos
-Administración de docentes
-Control de calificaciones
-Gestión de horarios y materias
+- Registro y consulta de alumnos
+- Administración de docentes
+- Control de calificaciones
+- Gestión de horarios y materias
 
-Todo esto mediante una interfaz clara y organizada.
+
 ---
 ## 🎨 Interfaz
 
