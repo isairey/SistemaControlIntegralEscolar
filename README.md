@@ -61,11 +61,11 @@ Está diseñado con tecnologías web robustas, permitiendo escalabilidad, manten
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/Control-Intregral-Digital-Escolar.git
+git clone https://github.com/isairey/SistemaControlIntegralEscolar.git
 ```
 Accede a la carpeta del proyecto:
 ```
-cd Control-Intregral-Digital-Escolar
+cd SistemaControlIntegralEscolar
 ```
 Instala las dependencias (si usas Laravel):
 ```
